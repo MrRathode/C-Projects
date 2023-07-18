@@ -6,15 +6,15 @@
 
 int main()
 {
-    float a=40;                      //    Water bottle
+    float a=40;                         //    Water bottle
 	float b=30;                    //    Napkins
 	float c=200;                  //   Towel
 	float d=700;                 //   chair
 	float e=199;                //  cartons
-    float f=1100;              //  shoes
-    float g=399;              //  T-Shirt
-    float h=160;             //  DiaryMilk
-	float i=10;             //  Kit Kat
+    float f=1100;                  //  shoes
+    float g=399;                //  T-Shirt
+    float h=160;               //  DiaryMilk
+	float i=10;           //  Kit Kat
     float k=30;
 
 	int age,contact;
